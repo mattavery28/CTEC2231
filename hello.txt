@@ -1,1 +1,5 @@
-hello
+Fare thee well!
+
+Hello World
+
+Quicker version!
